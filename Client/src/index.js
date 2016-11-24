@@ -1,4 +1,5 @@
 import React from 'react'
+//import 'babel-polyfill'
 import { render } from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 import { Router, browserHistory, applyRouterMiddleware } from 'react-router'

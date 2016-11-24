@@ -7,6 +7,7 @@ const Wrapper = styled.div`
   padding-top: 3.75rem;
   min-height: 100vh;
   box-sizing: border-box;
+  background-color:#0a4842;
 `
 
 const Header = styled.header`
@@ -21,7 +22,7 @@ const Hero = styled.section``
 const Content = styled.section`
   width: 100%;
   box-sizing: border-box;
-  margin: 2rem auto;
+  margin: 48px auto;
   max-width: 920px;
 `
 
